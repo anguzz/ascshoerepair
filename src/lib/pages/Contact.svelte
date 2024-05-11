@@ -108,6 +108,21 @@
               </div>
             </li>
            
+
+
+            <li class="py-2">
+              <div class="flex items-center">
+                <div>
+                  <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blue-600 bg-blue-300 mr-3">
+                    <i class="fab fa-html5"></i>
+                  </span>
+                </div>
+                <div>
+                  <a class="text-white font-medium	hover:text-lg hover:text-blue-300" href="/locations"> Our locations & directions </a>
+                </div>
+              </div>
+            </li>
+
           </ul>
         </div>
       </div>

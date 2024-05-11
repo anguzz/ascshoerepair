@@ -55,6 +55,8 @@
         <a class="text-gray-100 text-xl font-medium	 hover:text-blue-400" href="/#services">Services</a>
         <a class="text-gray-100 text-xl font-medium	 hover:text-blue-400" href="/portfolio">Portfolio</a>
         <a class="text-gray-100 text-xl font-medium	 hover:text-blue-400" href="/#contact">Contact</a>
+        <a class="text-gray-100 text-xl font-medium	 hover:text-blue-400" href="/locations">Locations</a>
+
         <!-- <a class="text-gray-100 text-xl font-medium	 hover:text-blue-400" href="/#about">About</a> !-->
         <div class="space-y-2">
         </div>
