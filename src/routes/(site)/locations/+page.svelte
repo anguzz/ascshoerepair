@@ -21,6 +21,8 @@
      <div class="location_container">
          <h1 class="text-4xl m-6 white font-bold">Plano Bazaar</h1>
          <p class="text-2xl m-2 font-semibold">1409 Jupiter Rd #405 Plano, Texas 75074</p>
+         <p class="text-2xl m-2 font-semibold text-red-500"> *Shop Closing 7/26/24* </p>
+
          <iframe class="responsive-iframe"
              loading="lazy"
              allowfullscreen

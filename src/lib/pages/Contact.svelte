@@ -118,7 +118,7 @@
                   </span>
                 </div>
                 <div>
-                  <a class="text-white font-medium	hover:text-lg hover:text-blue-300" href="/locations"> Our locations & directions </a>
+                  <a class="text-white font-medium	hover:text-lg hover:text-blue-300" href="/locations"> Our  & directions </a>
                 </div>
               </div>
             </li>
